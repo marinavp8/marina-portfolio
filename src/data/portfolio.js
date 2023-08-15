@@ -3,7 +3,7 @@ export default [{
     title: 'Marketing Strategy',
     imgUrls: "src/assets/Captura de Pantalla 2023-03-01 a las 12.23.24.png",
     stack: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://fkcodes.com/',
+    link: "https://fkcodes.com/",
 },
 {
     title: 'Developer Portfolio',
