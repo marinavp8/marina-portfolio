@@ -1,6 +1,6 @@
 import react from 'react';
 import timeline from '../data/timeline';
-import TimelineItem from './TimelineItem';
+import TimelineItem from '../components/TimelineItem';
 
 function Timeline() {
     return (
@@ -12,8 +12,7 @@ function Timeline() {
                     company={item.company}
                     details={item.details}
                 />
-                    ))
-                }    
+                    ))}    
         </div>
     )
 };
