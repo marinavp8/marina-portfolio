@@ -1,9 +1,9 @@
 export default [{
 
-    title: 'Marketing Strategy',
-    imgUrl: "/Captura de Pantalla 2023-03-01 a las 12.23.24.png",
-    stack: ['HTML', 'CSS', 'JavaScript'],
-    link: "https://fkcodes.com/",
+    title: 'Chat Assistant',
+    imgUrl: "/barbie.png",
+    stack: ['TypeScript', 'sdkAI', 'Next.js'],
+    link: "https://next-aisdk-tutorial.vercel.app//",
 },
 {
     title: 'Developer Portfolio',
